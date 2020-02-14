@@ -6,7 +6,7 @@ This is for research purposes only and should not be used to diagnose or predict
 
 ## Data
 
-We will be using the [Heart Disease Dataset](https://www.kaggle.com/imnikhilanand/heart-attack-prediction) provided on kaggle.com.
+We will be using the [Heart Disease Dataset](https://www.kaggle.com/zhaoyingzhu/heartcsv) provided on kaggle.com.
 
 Heart Disease Data Set: 
 Features: 
